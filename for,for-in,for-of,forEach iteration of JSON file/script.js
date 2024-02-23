@@ -126,6 +126,7 @@ let myResume1 = [{
   },
 }];
 
+// 2. For loop
 for (let i = 0; i < myResume1.length; i++)
 {
     console.log(myResume1[i])           // all 
